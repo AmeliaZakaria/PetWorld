@@ -1,0 +1,66 @@
+/* css for all  */
+.container{
+    border: 0.1px solid whitesmoke ;
+    width :90%;
+    margin: 0 auto;}
+
+.logo{
+    float: left;}
+
+.img-responsive{
+    margin-left: 10%;
+    width: 4in;
+    height: 2in;}
+
+.pet{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1in;
+   text-align: justify;
+   padding-top: 60px;
+   color: gold;}
+
+.clearfix{
+    clear: both;
+    float: none;}
+
+h2{
+    color: #3c40c6;
+    text-align: center;
+    background-color: #f1d693;}
+
+/*css for navigation*/
+.nav{
+    background-color: #ffc048;}
+
+a{  color : #3c40c6;
+    text-decoration: none;}
+
+a:hover{
+ color: #01017a ;}
+
+.text-right{
+    text-align: right;}
+
+.navigation ul {
+    list-style-type: none;}
+
+.navigation ul li {
+    display: inline;
+    padding: 1%;
+    font-weight: bold;
+    background-color:  #f1d693;
+    border: 1px solid whitesmoke;
+    border-radius: 5px}
+
+/* contact */
+
+.contact{
+    background-color: #ffff9f;
+    padding: 1% 0;
+}
+    /*css footer*/
+.footertxt{
+    text-align: center;}
+    
+.footer{
+    background-color:#ffc048 ;}

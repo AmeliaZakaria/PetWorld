@@ -1,0 +1,119 @@
+/* css for all  */
+.container{
+    border: 0.1px solid whitesmoke;
+    width :90%;
+    margin: 0 auto;}
+
+.logo{
+    float: left;}
+
+.img-responsive{
+    margin-left: 10%;
+    width: 4in;
+    height: 2in;}
+
+.pet{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1in;
+   text-align: justify;
+   padding-top: 60px;
+   color: gold;}
+
+.clearfix{
+    clear: both;
+    float: none;}
+
+h2{
+    color: #3c40c6;
+    text-align: center;
+    background-color: #f1d693;}
+
+/*css for navigation*/
+.nav{
+    background-color: #ffc048;}
+
+a{  color : #3c40c6;
+    text-decoration: none;}
+
+a:hover{
+ color: #01017a ;}
+
+.text-right{
+    text-align: right;}
+
+.navigation ul {
+    list-style-type: none;}
+
+.navigation ul li {
+    display: inline;
+    padding: 1%;
+    font-weight: bold;
+    background-color:  #f1d693;
+    border: 1px solid whitesmoke;
+    border-radius: 5px}
+
+    /* css for gambar pets 
+
+    .us{
+        width: fit-content;
+        height: 30%;
+    }*/
+/*css for working hour*/
+.hour{
+    background-color: #ffff9f;
+    padding: 1% 0;}
+
+ .box{
+     width: 35%;
+     float:left;
+     margin-left: 12%;}
+
+ .imghour{
+     width: 100%;
+     height: 5in;}
+
+ .waktu{
+     margin: 20%;}
+ .waktu1{
+     color: red;
+     font-weight: bolder;
+     font-size: 1cm;}
+ .waktu2{
+     font-weight: bold;
+     font-size: 0.6cm;}
+
+
+ /*css service*/
+ .service_list{
+    width: 28%;
+    float:left; 
+margin: 2.6%;  }
+
+ .imgsemua{
+    width: 100%;
+    height: 2in;
+    border-radius: 10px;
+    border: #40739e solid;}
+
+.service{
+    background-color: #ffff9f;}
+
+.float-container{
+   position: relative; }
+.float-text{
+    position: absolute;
+    bottom: 1px;
+    left: 35%;
+    color:#e84118;
+    font-size:large;
+    font-family:cursive;
+    background-color: blanchedalmond;
+    border-radius: 5px;}
+
+/*css footer*/
+.footertxt{
+    text-align: center;}
+    
+.footer{
+    background-color:#ffc048 ;}
+
